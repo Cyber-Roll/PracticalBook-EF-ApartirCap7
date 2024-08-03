@@ -1,0 +1,11 @@
+09:19 3/8/2024
+
+Contenido de este commit: D:\___Files\VS\BaseDatos\EFCore_Activity07-1_StarterFiles, 240803
+
+1. Esta Solución es del codigo original del libro, denominado: EFCore_Activity07-1_StarterFiles
+2. Actualice todos los proyectos en su interior a .NET8
+3. Actualice todos los Nugets a la versión más reciente/estable
+4. Probé que corria el programa: todo OK
+
+
+
